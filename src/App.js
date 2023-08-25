@@ -24,7 +24,7 @@ function App() {
 
 
   const clientId =
-    "BMkKHE4n2KgzLWFXDmpCVIpWMggQ8Pe8_4pRkbm9aNafKnn0WRlb1zoy6JlOh2nN2Aw54jIAbFbsAUut3tuJr8w";
+    "BAVJ1sL2vQytfij3dmhWfEnzm6qYiH-vw-nq7GB2OF3it-Gqz-IVQ20Vf25rTZptrGR0xTOKL8LuPcsAboeZtOs";
   const getUserInfo = async () => {
     if (!web3auth) {
       console.log("web3auth not initialized yet");
