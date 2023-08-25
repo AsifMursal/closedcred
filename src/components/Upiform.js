@@ -17,7 +17,7 @@ export default function Upiform() {
     const navigate=useNavigate();
 
     const clientId =
-    "BAVJ1sL2vQytfij3dmhWfEnzm6qYiH-vw-nq7GB2OF3it-Gqz-IVQ20Vf25rTZptrGR0xTOKL8LuPcsAboeZtOs";
+    "BMRK2HAmHBpmz5d2ouTDc0haOrZVXkeWjV06ey3H-tQBi14BAhou626rKQm_-IUjoSQ5hbs3ruk_OkrD8j06fs8";
     useEffect(() => {
       const init = async () => {
         try {
