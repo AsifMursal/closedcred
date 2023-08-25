@@ -28,7 +28,7 @@ export default function Upiform() {
               chainId: "0x13881",
               rpcTarget: "https://rpc-mumbai.maticvigil.com/",
             },
-  
+            web3AuthNetwork: "aqua",
           });
   
           setWeb3auth(web3auth);
